@@ -1,0 +1,1 @@
+</main><footer class="footer"><div><strong>KART<span class="red">CENTER</span></strong><p>Prepare-se para acelerar. Sua próxima corrida começa aqui.</p></div><span>© <?= date('Y') ?> Kart Center • Todos os direitos reservados</span></footer><script src="<?= e($baseUrl) ?>/assets/app.js"></script></body></html>
